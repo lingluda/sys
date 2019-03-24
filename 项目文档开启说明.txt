@@ -1,0 +1,18 @@
+1  运行项目前，请确定您的电脑已安装Node.js
+
+
+
+2  安装cnpm  使用gitbash或者cmd命令行窗口  输入命令行 npm install -g cnpm --registry=https://registry.npm.taobao.org
+
+
+
+3  安装项目所需的modules   输入命令行cnpm install
+
+
+
+4  开启项目 输入命令行 npm run dev  将会自动打开浏览器，此时网站路径是localhost:8080
+
+
+
+
+5  打开Nginx.exe 在浏览器输入localhost:9900 即可打开网站 此时可关闭localhost:8080页面
